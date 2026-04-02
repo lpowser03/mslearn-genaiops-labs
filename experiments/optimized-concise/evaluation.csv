@@ -1,0 +1,6 @@
+ test_prompt,agent_response_excerpt,intent_resolution,relevance,groundedness,comments
+ day-hike-gear,"Absolutely, great planning is the key to a safe and enjoyable hike...",5,5,5,Maintains quality with reduced verbosity
+ overnight-camping,"Absolutely -- prepping well makes your first overnight both safe and enjoyable...",5,3.7,4,More direct while preserving safety focus
+ three-day-backpacking,"Great plan! October mountain backpacking can be incredible but comes with unique risks...",5,5,5,Excellent concise safety guidance
+ trail-difficulty,"Great question! Assessing trail appropriateness is key for beginners...",5,5,3.7,Helpful and actionable guidance
+ winter-hiking,"Great question! Winter hiking demands a higher level of preparation...",5,5,5,Clear comparison without excess detail
