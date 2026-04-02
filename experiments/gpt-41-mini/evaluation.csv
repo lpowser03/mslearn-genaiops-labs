@@ -1,0 +1,6 @@
+ test_prompt,agent_response_excerpt,intent_resolution,relevance,groundedness,depth,comments
+ day-hike-gear,"For summer day hike on moderate terrain...",4,4,4,4,Good coverage of essentials & clear explanations. Although hydration importance could be emphasized more.
+ overnight-camping,"For your first overnight camping trip, preparation is key...",4.5,4,5,5,Solid advice!
+ three-day-backpacking,"For a 3-day October mountain backpacking trip, safety is paramount...",5,5,5,4,Good safety guidance
+ trail-difficulty,"As a beginner hiker, choosing a trail that matches your fitness level...",5,5,5,5,Practical framework provided and perfectly concise! GOLD STAR
+ winter-hiking,"For winter hiking, you'll need several extra items and safety measures...",4,3,3.5,2.5, Way too focused on gear and isn't nuanced enough about weather conditions. Could be more well-rounded.
