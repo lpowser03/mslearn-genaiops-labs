@@ -1,0 +1,7 @@
+ test_prompt,agent_response_excerpt,intent_resolution,relevance,groundedness,comments
+ day-hike-gear,"Great question! For a **summer day hike in moderate terrain**, you want to balance comfort, preparedness, and safety...",5,5,3,Clear and comprehensive gear list but no specific brands or products mentioned
+ overnight-camping,"Great question! Preparing for your first overnight camping trip is an exciting step...",4,4,3,Good beginner advice with safety focus
+ three-day-backpacking,"A 3-day mountain backpacking trip in October presents both exhilarating opportunities and unique safety challenges....",5,5,4,Excellent detailed safety guidance
+ trail-difficulty,"Great question! Choosing the right trail for your fitness and experience is crucial for both safety and enjoyment...",5,5,4,Helpful framework for self-assessment
+ winter-hiking,"Winter hiking introduces several new risks and challenges compared to summer...",5,5,4,Good comparison of seasonal differences
+ 
